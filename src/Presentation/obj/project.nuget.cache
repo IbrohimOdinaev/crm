@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rmWjpgL7l4w=",
+  "success": true,
+  "projectFilePath": "C:\\Новая папка (2)\\crm\\src\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Agony\\.nuget\\packages\\consoletables\\2.7.0\\consoletables.2.7.0.nupkg.sha512",
+    "C:\\Users\\Agony\\.nuget\\packages\\wcwidth\\1.0.0\\wcwidth.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
