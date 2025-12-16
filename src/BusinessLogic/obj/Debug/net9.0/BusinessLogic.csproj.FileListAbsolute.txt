@@ -1,0 +1,15 @@
+C:\Новая папка (2)\crm\src\BusinessLogic\bin\Debug\net9.0\BusinessLogic.deps.json
+C:\Новая папка (2)\crm\src\BusinessLogic\bin\Debug\net9.0\BusinessLogic.dll
+C:\Новая папка (2)\crm\src\BusinessLogic\bin\Debug\net9.0\BusinessLogic.pdb
+C:\Новая папка (2)\crm\src\BusinessLogic\bin\Debug\net9.0\DataAccess.dll
+C:\Новая папка (2)\crm\src\BusinessLogic\bin\Debug\net9.0\DataAccess.pdb
+C:\Новая папка (2)\crm\src\BusinessLogic\obj\Debug\net9.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Новая папка (2)\crm\src\BusinessLogic\obj\Debug\net9.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Новая папка (2)\crm\src\BusinessLogic\obj\Debug\net9.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Новая папка (2)\crm\src\BusinessLogic\obj\Debug\net9.0\BusinessLogic.AssemblyInfo.cs
+C:\Новая папка (2)\crm\src\BusinessLogic\obj\Debug\net9.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Новая папка (2)\crm\src\BusinessLogic\obj\Debug\net9.0\Business.CF5D6E35.Up2Date
+C:\Новая папка (2)\crm\src\BusinessLogic\obj\Debug\net9.0\BusinessLogic.dll
+C:\Новая папка (2)\crm\src\BusinessLogic\obj\Debug\net9.0\refint\BusinessLogic.dll
+C:\Новая папка (2)\crm\src\BusinessLogic\obj\Debug\net9.0\BusinessLogic.pdb
+C:\Новая папка (2)\crm\src\BusinessLogic\obj\Debug\net9.0\ref\BusinessLogic.dll
